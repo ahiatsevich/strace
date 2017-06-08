@@ -1,0 +1,14 @@
+{
+  "name": "solidity-logger",
+  "version": "0.0.1",
+  "description": "Solidity Conract Logger",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Aliaksei Hiatsevich <aliaksei.hiatsevich@gmail.com>",
+  "license": "GPLv3",
+  "dependencies": {
+    "truffle": "^3.2.91",
+    "ethereumjs-testrpc": "ahiatsevich/testrpc#feature/trace"
+  },
+  "devDependencies": {}
+}
